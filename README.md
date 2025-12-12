@@ -100,7 +100,7 @@ The system emphasizes transparency, autonomy, accessibility, and responsible env
 
 ### Milestone 1 — Initial Concept  
 Explored how AI could support food security and gardening via data analysis and generative outputs.  
-**Source:** Milestone 1 – Project Idea (file 4)
+**Source:** Milestone 1 – Project Idea (Milestone 1- Project Idea.pdf)
 
 ### Milestone 2 — System Outline & Interaction  
 Defined user flow, devices, environmental factors, and early layout sketches.  
