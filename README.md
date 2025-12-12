@@ -98,21 +98,21 @@ The system emphasizes transparency, autonomy, accessibility, and responsible env
 
 ## 📈 Progress Summary
 
-### Milestone 1 — Initial Concept  
+### Milestone 1 — Initial Concept
 Explored how AI could support food security and gardening via data analysis and generative outputs.  
-**Source:** [Milestone 1 – Project Idea} (Milestone 1- Project Idea.pdf)
+**Source:** [Milestone 1 – Project Idea](Milestone%201-%20Project%20Idea.pdf)
 
-### Milestone 2 — System Outline & Interaction  
+### Milestone 2 — System Outline & Interaction
 Defined user flow, devices, environmental factors, and early layout sketches.  
-**Source:** Milestone 2 – Project Idea (file 3)
+**Source:** [Milestone 2 – Project Idea](Milestone%202-%20Project%20Idea.pdf)
 
-### Milestone 3 — Visual & Ethical Framework  
+### Milestone 3 — Visual & Ethical Framework
 Designed UI direction, color palette, and ethical foundations guided by empathy and transparency.  
-**Source:** Design Presentation (file 1)
+**Source:** [Design Presentation](STENSON_DesignPresentation_Milestone.pdf)
 
-### Milestone 4 — Progress Update  
+### Milestone 4 — Progress Update
 Developed beta testing plan, real-time AI logic, Assistive vs. Agentic modes, and data resource strategy.  
-**Source:** Milestone 4 (file 0)
+**Source:** [Progress Update](Stenson_ProgressUpdate_11.10.2025.pdf)
 
 
 
