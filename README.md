@@ -1,7 +1,7 @@
 # AI-Powered Gardening Hub
 ### Integrating Generative & Agentic AI for Sustainable Gardening  
 **Author:** Mya Stenson
-**Check out the final prototype here:** https://green-thumb-ai.figma.site/
+📱🐛Check out the final prototype here: https://green-thumb-ai.figma.site/
 
 
 
